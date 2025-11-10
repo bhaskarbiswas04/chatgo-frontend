@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>We are the sources and managemnet</h1>
-      <p>We are the insider management inside the sourcces and </p>
+      <h1>ChatGo Application</h1>
     </div>
   );
 }
